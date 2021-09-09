@@ -6,15 +6,15 @@ body{
 
 input{
     width: 100%;
-    border: 1px solid #f504fd;
+    border: 1px solid #b80000;
     padding: 10px;
     box-sizing: border-box;
     margin-bottom: 5px;
 }
 
 button{
-    border: 1px solid #f504fd;
-    background-color: #f504fd;
+    border: 1px solid #b80000;
+    background-color: #b80000;
     color: white;
     padding: 10px 20px;
     font-weight: bold;
@@ -22,7 +22,7 @@ button{
 
 #delete-btn{
     background-color: white;
-    color: #f504fd;
+    color: #b80000;
 }
 
 ul{
@@ -36,5 +36,5 @@ li{
 }
 
 a{
-    color: #f504fd;
+    color: #b80000;
 }
