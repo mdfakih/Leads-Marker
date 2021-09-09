@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "0.0.0.1",
+    "name": "Leads Marker",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "description": "A convenient way to store leads!",
+    "permissions": [
+        "tabs"
+    ]
+}
